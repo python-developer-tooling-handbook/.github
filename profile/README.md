@@ -5,8 +5,6 @@ ebook on Python developer tooling. This handbook covers a wide range of topics,
 including build tools, linting, formatting, dependency management, virtual environments,
 and more.
 
-## Stay Updated
-
 The book is currently a work in progress, and I'm excited to share it with you when it's
 ready. If you want to be notified as soon as it's released, please consider signing up
 for my mailing list [here](https://buttondown.email/pdth?tag=github).
