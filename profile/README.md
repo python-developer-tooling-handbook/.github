@@ -35,4 +35,5 @@ Explore these example repositories to see how these tools can be used:
 -----------
 
 > [!IMPORTANT]
-> [Sign up for the mailing list to receive more exciting content as we dive deeper into Python developer tooling](https://buttondown.email/pdth?tag=github)
+> [Sign up](https://buttondown.email/pdth?tag=github) for the mailing list to receive more exciting content as we dive deeper into Python developer tooling
+
