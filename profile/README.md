@@ -23,13 +23,14 @@ sdist](https://realpython.com/python-wheels/) for sharing on [PyPI](https://pypi
 
 Explore these example repositories to see how these tools can be used:
 
-- [Setuptools with
-  setup.py](https://github.com/python-developer-tooling-handbook/demo-setuptools-with-setuppy)
-- [Setuptools with pyproject.toml
-  only](https://github.com/python-developer-tooling-handbook/demo-setuptools-without-setuppy)
-- [Flit](https://github.com/python-developer-tooling-handbook/demo-flit)
-- [Poetry](https://github.com/python-developer-tooling-handbook/demo-poetry)
-- [PDM](https://github.com/python-developer-tooling-handbook/demo-pdm)
-- [Hatch](https://github.com/python-developer-tooling-handbook/demo-hatch)
+> [!note]
+> - [Setuptools with
+>   setup.py](https://github.com/python-developer-tooling-handbook/demo-setuptools-with-setuppy)
+> - [Setuptools with pyproject.toml
+>   only](https://github.com/python-developer-tooling-handbook/demo-setuptools-without-setuppy)
+> - [Flit](https://github.com/python-developer-tooling-handbook/demo-flit)
+> - [Poetry](https://github.com/python-developer-tooling-handbook/demo-poetry)
+> - [PDM](https://github.com/python-developer-tooling-handbook/demo-pdm)
+> - [Hatch](https://github.com/python-developer-tooling-handbook/demo-hatch)
 
 Stay tuned for more exciting content as we dive deeper into Python development tooling!
