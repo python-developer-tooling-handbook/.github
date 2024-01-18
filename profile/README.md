@@ -32,4 +32,6 @@ Explore these example repositories to see how these tools can be used:
 - [PDM](https://github.com/python-developer-tooling-handbook/demo-pdm)
 - [Hatch](https://github.com/python-developer-tooling-handbook/demo-hatch)
 
-Stay tuned for more exciting content as we dive deeper into Python development tooling!
+
+> [!note]
+> [Sign up for the mailing list to receive more exciting content as we dive deeper into Python developer tooling](https://buttondown.email/pdth?tag=github)
