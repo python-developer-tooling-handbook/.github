@@ -24,7 +24,7 @@ sdist](https://realpython.com/python-wheels/) for sharing on [PyPI](https://pypi
 Explore these example repositories to see how these tools can be used:
 
 - [Setuptools with
-  Setup.py](https://github.com/python-developer-tooling-handbook/demo-setuptools-with-setuppy)
+  setup.py](https://github.com/python-developer-tooling-handbook/demo-setuptools-with-setuppy)
 - [Setuptools with pyproject.toml
   only](https://github.com/python-developer-tooling-handbook/demo-setuptools-without-setuppy)
 - [Flit](https://github.com/python-developer-tooling-handbook/demo-flit)
