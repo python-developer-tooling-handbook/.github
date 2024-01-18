@@ -1,27 +1,35 @@
-This Github page is a companion to my forthcoming ebook on Python developer tooling
-(build tools, linting, formatting, dependency management, etc). 
+# 👋 Hey, I'm Tim Hopper!
 
-The book is currently in progress. If you are interested in being notified when it is
-released, please sign up for my mailing list
-[here](https://buttondown.email/pdth?tag=github).
+Welcome to the __Python Developer Tooling Handbook__, a companion to my forthcoming
+ebook on Python developer tooling. This handbook covers a wide range of topics,
+including build tools, linting, formatting, dependency management, virtual environments,
+and more.
+
+## Stay Updated
+
+The book is currently a work in progress, and I'm excited to share it with you when it's
+ready. If you want to be notified as soon as it's released, please consider signing up
+for my mailing list [here](https://buttondown.email/pdth?tag=github).
 
 ## Table of Contents
 
 ### Example Python Package Repos
 
-In recent years, Python expanded the ability to build packages beyond just `setup.py`
-(setuptools/distutils). These tools have a variety of features and uses cases that I
-will discuss in the book, but each tool can be used for structuring a Python program
-that can be built into a [wheel or sdist](https://realpython.com/python-wheels/) for
-sharing on [PyPI](https://pypi.org).  
+In recent years, Python has evolved its package-building capabilities beyond just
+`setup.py` (setuptools/distutils). These modern tools offer a wealth of features and use
+cases, which I'll delve into in the book. Each tool enables you to structure a Python
+program that can be easily built into a [wheel or
+sdist](https://realpython.com/python-wheels/) for sharing on [PyPI](https://pypi.org).
 
-The following repos are examples of how to build packages using the new tools.
+Explore these example repositories to see how these tools can be used:
 
-* [Setuptools with
+- [Setuptools with
   Setup.py](https://github.com/python-developer-tooling-handbook/demo-setuptools-with-setuppy)
-* [Setuptools with pyproject.toml
+- [Setuptools with pyproject.toml
   only](https://github.com/python-developer-tooling-handbook/demo-setuptools-without-setuppy)
-* [Flit](https://github.com/python-developer-tooling-handbook/demo-flit)
-* [Poetry](https://github.com/python-developer-tooling-handbook/demo-poetry)
-* [PDM](https://github.com/python-developer-tooling-handbook/demo-pdm)
-* [Hatch](https://github.com/python-developer-tooling-handbook/demo-hatch)
+- [Flit](https://github.com/python-developer-tooling-handbook/demo-flit)
+- [Poetry](https://github.com/python-developer-tooling-handbook/demo-poetry)
+- [PDM](https://github.com/python-developer-tooling-handbook/demo-pdm)
+- [Hatch](https://github.com/python-developer-tooling-handbook/demo-hatch)
+
+Stay tuned for more exciting content as we dive deeper into Python development tooling!
