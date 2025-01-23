@@ -29,6 +29,7 @@ Explore these example repositories to see how these tools can be used:
 - [Poetry](https://github.com/python-developer-tooling-handbook/demo-poetry)
 - [PDM](https://github.com/python-developer-tooling-handbook/demo-pdm)
 - [Hatch](https://github.com/python-developer-tooling-handbook/demo-hatch)
+- [uv](https://github.com/python-developer-tooling-handbook/demo-uv)
 
 -----------
 
