@@ -1,13 +1,10 @@
 # 👋 Hey, I'm Tim Hopper!
 
-Welcome to the __Python Developer Tooling Handbook__, a companion to my forthcoming
-ebook on Python developer tooling. This handbook covers a wide range of topics,
+Welcome to the GitHub compaion to the [Python Developer Tooling Handbook](https://pydevtools.com). This handbook covers a wide range of topics for Python developers,
 including build tools, linting, formatting, dependency management, virtual environments,
 and more.
 
-The book is currently a work in progress, and I'm excited to share it with you when it's
-ready. If you want to be notified as soon as it's released, please consider signing up
-for my mailing list [here](https://buttondown.email/pdth?tag=github).
+If you'd like to follow updates to the book [please sign up for the mailing list](https://buttondown.email/pdth?tag=github).
 
 ## Table of Contents
 
