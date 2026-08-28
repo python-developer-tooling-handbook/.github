@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Tim Hopper!
 
-Welcome to the GitHub compaion to the [Python Developer Tooling Handbook](https://pydevtools.com). This handbook covers a wide range of topics for Python developers,
+Welcome to the GitHub companion to the [Python Developer Tooling Handbook](https://pydevtools.com). This handbook covers a wide range of topics for Python developers,
 including build tools, linting, formatting, dependency management, virtual environments,
 and more.
 
